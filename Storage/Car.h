@@ -4,7 +4,7 @@
 #include<queue>
 #include "Item.h"
 
-
+//Нет здесь никаких изменений
 class Car 
 {
 public:
