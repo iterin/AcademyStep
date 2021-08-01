@@ -3,8 +3,8 @@
 #include<list>
 #include<queue>
 #include "Item.h"
-
-
+//Класс автомобиля
+//Дополнительные изменения
 class Car 
 {
 public:
