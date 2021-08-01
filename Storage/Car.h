@@ -3,7 +3,8 @@
 #include<list>
 #include<queue>
 #include "Item.h"
-
+//Класс автомобиля
+//Дополнительные изменения
 //Нет здесь никаких изменений
 class Car 
 {
