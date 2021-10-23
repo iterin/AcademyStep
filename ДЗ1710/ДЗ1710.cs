@@ -135,7 +135,7 @@ namespace ДЗ_1
 	}
 }
 
-//Задание № 5
+//Задание № 6
 using System;
 
 namespace ДЗ_1
