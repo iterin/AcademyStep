@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\iteri\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\iteri\\.nuget\\packages"
+    ]
+  }
+}
